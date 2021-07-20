@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aggr3550r
 - 👀 I’m interested in DevOps and Backend dev
-- 🌱 I’m currently learning Node.JS and Python
+- 🌱 I’m currently learning Node.JS, Python and Linux
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me send a mail to victoruc042@gmail.com
 
