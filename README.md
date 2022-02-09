@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me send a mail to victoruc042@gmail.com
+- Company mail - team@kippa.africa
 
 <!---
 aggr3550r/aggr3550r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
