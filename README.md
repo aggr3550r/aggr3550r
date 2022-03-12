@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aggr3550r
+- 👋 Hi, I’m Victor Uche
 - 👀 I’m interested in Backend Web development
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning NestJS and Golang
 - 💞️ I’m looking to collaborate on Open source projects
-- 📫 How to reach me send a mail to victoruc042@gmail.com
+- 📫 To reach me send a mail to victoruc042@gmail.com
 - Company mail - team@kippa.africa
 
 <!---
