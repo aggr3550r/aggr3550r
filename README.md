@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Victor Uche
-- 👀 I’m interested in Backend Web development
-- 🌱 I’m currently learning NestJS and Golang
-- 💞️ I’m looking to collaborate on Open source projects
+- 👀 I am interested in Backend Engineering
+- 🌱 I am currently studying NestJS and software architecture
+- 💞️ I am looking to collaborate on Open source projects
 - 📫 To reach me send a mail to ucheviquetor@gmail.com
 - Company mail - victor@kippa.africa
 
