@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Uche
 - 👀 I am interested in Backend Engineering
-- 🌱 I am currently studying NestJS and software architecture
+- 🌱 I am currently exploring NestJS and clean software architecture
 - 💞️ I am looking to collaborate on Open source projects
 - 📫 To reach me send a mail to ucheviquetor@gmail.com
 - Company mail - victor@kippa.africa
