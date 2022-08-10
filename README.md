@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Victor Uche
 - 👀 I am a Backend Engineer
 - 🌱 I am currently learning Docker, Kubernetes and AWS
-- 💞️ I love building clean, robust and scalable software from the bottom up
+- 💞️ I love building clean, robust and scalable software from the ground up
 - 📫 To reach me send a mail to ucheviquetor@gmail.com
 - Company mail - victor@kippa.africa
 
