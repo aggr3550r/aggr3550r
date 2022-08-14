@@ -2,7 +2,7 @@
 - 👀 I am a Backend Engineer
 - 🌱 I am currently learning Java
 - 💞️ I love building clean, robust and scalable software from the ground up
-- 📫 To reach me send a mail to ucheviquetor@gmail.com
+- 📫 To reach me send a mail to victoruc042@gmail.com
 - Company mail - victor@kippa.africa
 
 <!---
